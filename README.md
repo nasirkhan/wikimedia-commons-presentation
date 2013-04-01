@@ -1,1 +1,1 @@
-this is a presentaion on Wikimedia Commons. This presentation is developed based on the impress.js. you can check the this live at the following url http://nasirkhn.com/wikipedia/wikipedia-presentaion/
+This is a presentaion on Wikimedia Commons. This presentation is developed based on the impress.js. you can check the this live at the following url http://nasirkhn.com/wikipedia/wikipedia-presentaion/
